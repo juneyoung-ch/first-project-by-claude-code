@@ -1,5 +1,7 @@
 # FIELD NOTES — 현장에서 시작하는 기획
 
+저장소: `first-project-by-claude-code`
+
 HTML과 CSS로 만든 반응형 개인 소개 웹사이트입니다. 별도 설치나 빌드 없이 `index.html`을 브라우저에서 열면 됩니다.
 
 ## 내용 수정
